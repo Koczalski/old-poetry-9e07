@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "old-poetry-9e07",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "56b811e2-b0ad-4aa1-ac09-c9b3239a5b7f",
+      "database_name": "old-poetry-9e07-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
